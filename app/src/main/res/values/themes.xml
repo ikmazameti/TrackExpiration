@@ -1,0 +1,11 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TrackExpiration" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/expiry_tracker_blue</item>
+        <item name="android:textColorPrimary">@color/white</item>
+
+    </style>
+
+    <style name="Theme.TrackExpiration" parent="Base.Theme.TrackExpiration" />
+</resources>
